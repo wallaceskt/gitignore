@@ -154,5 +154,3 @@ by automatically forking the project and prompting to send a pull request too.
 ## License
 
 [CC0-1.0](./LICENSE).
-
-YEP.
